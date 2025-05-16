@@ -1,22 +1,4 @@
 # Test
-
-curl --location "https://api.mistral.ai/v1/chat/completions" \
-     --header 'Content-Type: application/json' \
-     --header 'Accept: application/json' \
-     --header "Authorization: Bearer xxx" \
-     --data '{
-    "model": "mistral-large-latest",
-    "messages": [{"role": "user", "content": "Who is the most renowned French painter?"}]
-  }'
-
-UCIcqtest1
-M6m8wtest2
-JwqsGtest3
-oIiAutest4
-yXvQAtest5
-Ap4umtest6
-qi
-
 ## Init.sql
 
 ```sql
